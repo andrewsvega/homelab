@@ -26,6 +26,7 @@ Remote access via Tailscale. SSH is key-only, and ufw allows SSH inbound only.
 | Service | Host | Port | Purpose |
 |---|---|---|---|
 | [Uptime Kuma](uptime-kuma/) | droo-hp | 3001 | Uptime monitoring |
+| [AdGuard Home](adguard/) | droo-hp | 53, 3000 | DNS ad/tracker blocking, encrypted upstream (DoH/DoT) |
 
 ## System config (`system/droo-hp/`)
 
