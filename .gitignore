@@ -1,0 +1,4 @@
+# Service runtime data: databases, logins, secrets. Never commit.
+**/data/
+.env
+*.env

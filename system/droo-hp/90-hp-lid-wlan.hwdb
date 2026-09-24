@@ -1,0 +1,3 @@
+# HP 15-bs015dx: firmware sends KEY_WLAN (scancode d7) on lid open -> ignore it
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnHP*:pn*:*
+ KEYBOARD_KEY_d7=reserved
