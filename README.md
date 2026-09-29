@@ -48,3 +48,8 @@ Remote access via Tailscale. SSH is key-only, and ufw allows SSH inbound only.
 - [ ] Proxmox on `droo-srv`
 - [ ] 3-2-1 photo backups
 - [ ] OpenWrt on the AX21
+
+## AdGuard settings (live in web UI, not in repo)
+- Upstreams (load-balanced): `https://security.cloudflare-dns.com/dns-query`, `tls://dns.quad9.net`, both malware-filtering
+- AdGuard browsing security web service: ON
+- Blocklists: AdGuard DNS filter, HaGeZi Threat Intelligence Feeds
