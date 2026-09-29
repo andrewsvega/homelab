@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="plex.tv" lang="en" xmltv_id="24HourFreeMovies.us@SD" site_id="5fd115bab7ef8d002dcf181d">24 Hour Free Movies (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="50CentAction.us@SD" site_id="6827b9579beea89c38b6df55">50 Cent Action (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="70sCinema.us@SD" site_id="5f4d878d3d19b30007d2e782">70s Cinema</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="80sRewind.us@SD" site_id="5ca525b650be2571e3943c63">80s Rewind</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="90sThrowback.us@SD" site_id="5f4d86f519358a00072b978e">90s Throwback</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="ACCDigitalNetwork.us@SD" site_id="5f8ee3727c75fa002d9e47c1">ACC Digital Network (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AccuWeatherNOW.us@SD" site_id="6151d74593dbf246f0843f01">AccuWeather NOW (1080p)</channel>
+  <channel site="pluto.tv" lang="pt" xmltv_id="AdrenalinaPuraTV.us@SD" site_id="61b790b985706b00072cb797">Adrenalina Pura TV (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AfroLandTV.us@SD" site_id="60e737a4ebef9d002c4d0a0c">AfroLandTV (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="AllRealitybyWEtv.us@SD" site_id="5e82530945600e0007ca076c">All Reality by WE tv (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AllWeddingsWEtv.us@SD" site_id="60de0520281b17002cd1d4c4">All Weddings WE tv</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ALLBLKGems.us@SD" site_id="6793ea255225b515b4ba91a7">ALLBLK Gems (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="AmericasTestKitchen.us@SD" site_id="5e84f54a82f05300080e6746">America's Test Kitchen (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="AmericasVoiceNews.us@SD" site_id="5e1f7da4bc7d740009831259">America's Voice News (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AngerManagementChannel.us@SD" site_id="6303ca568a01b5d4dae57d0e">Anger Management Channel (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AnimationPlus.us@SD" site_id="674f6a6cf44561420465f9f3">Animation+ (1080p) [Geo-blocked]</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="AnimexHIDIVE.us@SD" site_id="6793eaa4bc03978b9bc63db1">Anime x HIDIVE</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="AntiquesRoadTrip.us@SD" site_id="66f135b45e4a6e0008b80606">Antiques Road Trip (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="AntiquesRoadshowUK.us@SD" site_id="5ce44810b421747ae467b7cd">Antiques Roadshow UK (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AreWeThereYet.us@SD" site_id="612919784f53e1002c9aa219">Are We There Yet? (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AsianCrush.us@SD" site_id="5eea605474085f0040ddc767">AsianCrush (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="AtHomewithFamilyHandyman.us@SD" site_id="632270e3e67cf9cd9011fce1">At Home with Family Handyman (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BabySharkTV.us@SD" site_id="60faffc3fbbc120007fc4376">Baby Shark TV (1080p)</channel>
+  <channel site="pluto.tv" lang="pt" xmltv_id="BabyFirst.us@Spanish" site_id="5f4fb4cf605ddf000748e16f">BabyFirst Spanish (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Backstage.us@SD" site_id="608aec5fa09205002da4f28f">Backstage (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BarRescue.us@SD" site_id="60a3d889a5b3690008dc7fe8">Bar Rescue</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Baywatch.us@US" site_id="63e63f20abacad42ed3d1acf">Baywatch (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BBCEarth.uk@US" site_id="656535fc2c46f30008870fae">BBC Earth US (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="BBCFood.us@SD" site_id="630905af0417b7074a4ad95e">BBC Food (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="BBCHomeGarden.us@SD" site_id="6308eda9ac9983739c8a29bb">BBC Home &amp; Garden (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="beINSPORTSXTRA.us@SD" site_id="60a53634126de9002e694bc4">beIN SPORTS XTRA (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BellatorMMA.us@SD" site_id="5ebc8688f3697d00072f7cf8">Bellator MMA</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BETClassicsPlutoTV.us@SD" site_id="60f85644a9493e0007a1f035">BET Classics Pluto TV</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BETPlutoTV.us@US" site_id="5ca670f6593a5d78f0e85aed">BET Pluto TV</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BeverlyHillbillies.us@US" site_id="5f7796e470510900070d4e3d">Beverly Hillbillies</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BeverlyHills90210.us@SD" site_id="5f4d83e0a382c00007bc02e7">Beverly Hills 90210</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="BilliardTV.us@SD" site_id="6334a8e48a7b2a349d903b8c">Billiard TV (1080p) [Geo-blocked]</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BlackInkCrew.us@SD" site_id="5d51e2bceca5b4b2c0e06c50">Black Ink Crew</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BlazeLive.us@SD" site_id="5e46fba0c43b0d00096e5ac1">Blaze Live (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="BloombergOriginals.us@SD" site_id="6598b92d3c32e5b40440d6c2">Bloomberg Originals SD (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BlueBloods.us@SD" site_id="61b3b8c645b45d0007a9bb8d">Blue Bloods</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BounceXL.us@SD" site_id="6176fd25e83a5f0007a464c9">Bounce XL (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="BratTV.us@SD" site_id="63d6f6c5a9e88ee909e7ee1f">Brat TV (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BritBoxMysteries.us@SD" site_id="60f5d389985a0c0007357304">BritBox Mysteries (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Buzzr.us@SD" site_id="5812bfbe4ced4f7b601b12e6">Buzzr (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="CampSpoopy.us@SD" site_id="6164a963766ab4f9f57e81b1">Camp Spoopy (576p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNews247.us@SD" site_id="6231eb3865be650007f59595">CBS News 24/7 (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsBaltimore.us@SD" site_id="60f75919718aed0007250d7a">CBS News Baltimore (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsBayArea.us@SD" site_id="5eb1afb21486df0007abc57c">CBS News Bay Area (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsBoston.us@SD" site_id="5eb1af2ad345340008fccd1e">CBS News Boston (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsChicago.us@SD" site_id="5eb1aeb2fd4b8a00076c2047">CBS News Chicago (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsColorado.us@SD" site_id="5eb1b12146cba40007aa7e5d">CBS News Colorado (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsDetroit.us@SD" site_id="634f2610d5023700078f7dee">CBS News Detroit (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsLosAngeles.us@SD" site_id="5dc9b875e280c80009a8a44a">CBS News Los Angeles (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsMiami.us@SD" site_id="60fb299b79498900070b29e0">CBS News Miami (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsMinnesota.us@SD" site_id="5eb1b0bf2240d8000732a09c">CBS News Minnesota (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsNewYork.us@SD" site_id="5dc48170e280c80009a861ab">CBS News New York (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsPittsburgh.us@SD" site_id="5eb1b17aa5277e00083f6521">CBS News Pittsburgh (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSNewsSacramento.us@SD" site_id="60cb6df2b2ad610008cd5bea">CBS News Sacramento (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSSportsGolazoNetwork.us@SD" site_id="63a0e33a45264d000850ed7e">CBS Sports Golazo Network (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSSportsHQ.us@SD" site_id="5e9f2c05172a0f0007db4786">CBS Sports HQ (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="CelebrityNameGame.us@SD" site_id="640205c40e1daf16b299567e">Celebrity Name Game (1080p) [Geo-blocked]</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="CheddarNews.us@SD" site_id="5f6b8e5900b0950040d0f2af">Cheddar News (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Choppertown.us@SD" site_id="5ef11487d33ab9004048a1d3">Choppertown (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="CinePride.us@SD" site_id="62167144ab2095ca85353ad6">CinePride (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ClassicMoviesChannel.us@SD" site_id="561c5b0dada51f8004c4d855">Classic Movies Channel</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ClassicTVComedy.us@SD" site_id="5f15e32b297f96000768f928">Classic TV Comedy</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ClassicTVDrama.us@SD" site_id="5f15e3cccf49290007053c67">Classic TV Drama</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ClassicTVFamilies.us@US" site_id="61325d18f5166c00081b84e0">Classic TV: Families</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Classica.us@SD" site_id="5f779951372da90007fd45e8">Classica (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CMTEqualPlay.us@SD" site_id="5f68f53eb1e5800007390bf8">CMT Equal Play (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ComedyCentralPlutoTV.us@US" site_id="5ca671f215a62078d2ec0abf">Comedy Central Pluto TV</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="ComedyDynamics.us@SD" site_id="5efe1de5e0b3f5003f5d9f76">Comedy Dynamics (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="CookingPanda.us@SD" site_id="5f07e9fdf313eb0041bbecda">Cooking Panda (576p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Cops.us@SD" site_id="661cf62d24e1d000087dae0d">Cops (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CourtTV.us@SD" site_id="5dae0b4841a7d0000938ddbd">Court TV (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Crime360.us@SD" site_id="5f74cf7effbe690040689f41">Crime 360 (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CSI.us@SD" site_id="5efbd29e4aa26700076c0d06">CSI (United States)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="CuriosityNOW.de@EN" site_id="64831c8be3541c909e96d240">Curiosity NOW EN (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="DarkMatterTV.us@SD" site_id="5eea605674085f0040ddc7a6">Dark Matter TV (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Dateline247.us@SD" site_id="5fc70600598c41002da3dd19">Dateline 24/7 (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="DealorNoDeal.us@SD" site_id="5e9debf8c881310007d7bde1">Deal or No Deal (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Degrassi.us@US" site_id="5c6eeb85c05dfc257e5a50c4">Degrassi (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="DesignatedSurvivor.us@SD" site_id="66aa9b7fd8fc59729226073e">Designated Survivor (1080p) [Geo-blocked]</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="DoctorWhoClassic.us@US" site_id="5ce4475cd43850831ca91ce7">Doctor Who Classic (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="DocumentaryPlus.us@US" site_id="62f42e6cad0081c6ef405723">Documentary+ (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="DogtheBountyHunter.us@US" site_id="5bee1a7359ee03633e780238">Dog the Bounty Hunter (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="DontTellTheBride.uk@SD" site_id="635847d0d3a668f1cafc1f9d">Don't Tell The Bride (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="EKeepingUp.us@SD" site_id="645e328e3ea1d2d705ef8ab2">E! Keeping Up (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="EbonyTVbyLionsgate.us@SD" site_id="6533de63bd43e1c8b1865152">Ebony TV by Lionsgate (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="ElectricNow.us@SD" site_id="5f170d61b898490041b49360">Electric Now (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="EntertainmentTonight.us@SD" site_id="5dc0c78281eddb0009a02d5e">Entertainment Tonight (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="F1Channel.ie@US" site_id="6896595a58a6658b3d6a501a">F1 Channel (1080p) [Geo-blocked]</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="FailArmy.us@US" site_id="554158e864526b29254ff105">FailArmy (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="FamilyTies.us@SD" site_id="5f77939a630f530007dde654">Family Ties (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Farscape.us@SD" site_id="680bb31c56ff83bcd685d64e">Farscape</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="FastTV.us@SD" site_id="6400f731d200410008f9b339">Fast TV (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="FIFAPlus.uk@UnitedStates" site_id="66628d4a8dfc36b8c8a399c4">FIFA+ United States (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="FlicksofFury.us@SD" site_id="58e55b14ad8e9c364d55f717">Flicks of Fury</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ForensicFiles.us@SD" site_id="5bb1af6a268cae539bcedb0a">Forensic Files</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ForeverKids.us@SD" site_id="56171fafada51f8004c4b40f">Forever Kids</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="FoxWeather.us@SD" site_id="640a68880e884c0009979cc2">Fox Weather (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="FrightFlix.us@SD" site_id="621674502c2627c068e73ada">FrightFlix (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="FTFSports.us@SD" site_id="605a309dc5acdc002c7a20aa">FTF Sports (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="FuboSportsNetwork.us@SD" site_id="5fc705f68aba71002d8b7b37">Fubo Sports Network (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="FunnyAF.us@SD" site_id="65a6a5e90c7ff50008cb9815">Funny AF</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="GalxyTV.us@SD" site_id="621672e42c2627c068e73ad8">Galxy TV (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="GameShowCentral.us@SD" site_id="5e54187aae660e00093561d6">Game Show Central (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="GarfieldandFriends.us@US" site_id="60faf9ddfcc1f200070a5932">Garfield and Friends</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="GirlfriendsFilms.us@SD" site_id="66ba1e4446762a000855cd87">Girlfriends Films</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="GordonRamsaysHellsKitchen.us@SD" site_id="5b4e99f4423e067bd6df6903">Gordon Ramsay's Hell's Kitchen (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="GoTraveler.us@SD" site_id="60a53634126de9002e694bc2">GoTraveler (720p) [Geo-blocked]</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="GravitasMovies.us@SD" site_id="5efe1de7e0b3f5003f5d9f8e">Gravitas Movies (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="GritXtra.us@SD" site_id="62b45f15b4508e0eedacdf25">Grit Xtra (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="GrjngoWesternMovies.de@SD" site_id="63489a771159f6a5ce819b7b">Grjngo Western Movies (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Gunsmoke.us@SD" site_id="68503d1736c9361b191e7d89">Gunsmoke</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="HallmarkMoviesMore.us@SD" site_id="628e685ba3811100070551a8">Hallmark Movies &amp; More (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="HappyDays.us@SD" site_id="5f7794162a4559000781fc12">Happy Days (United States)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="HauntTV.ca@SD" site_id="682dfd3947a628d2f56948cc">HauntTV (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Heartland.us@Web" site_id="61f07513227feb00073ee6bc">Heartland Web</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="HiYAH.us@SD" site_id="5f64c4ef35f612003f6ffe30">Hi-YAH! (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="HistoryHit.uk@SD" site_id="5f74cf83ffbe690040689f50">History Hit (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="HomeMadeNation.us@SD" site_id="5f74cf82ffbe690040689f47">Home.Made.Nation (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="HSN.us@East" site_id="5f8a02476b72230007e62b7d">HSN (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="HSN.us@West" site_id="5f8a02476b72230007e62b7d">HSN West (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="HumorMill.us@SD" site_id="5fd115b7b7ef8d002dcf1814">Humor Mill (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="iCarly.us@SD" site_id="6450209d939a5900084dba1d">iCarly (United States) SD</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="ImpossibleQuizShow.us@SD" site_id="6308fa9c0417b7074a4ad959">Impossible Quiz Show (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="InkMaster.us@SD" site_id="60807fd5db701400078219c2">Ink Master</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="IronChef.us@US" site_id="6707cfa5da81682f2d1e6837">Iron Chef</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="JerseyShore.us@SD" site_id="609bfa51fbecc1000733152e">Jersey Shore (United States)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="JohnnyCarsonTV.us@SD" site_id="60d4edd6b2fdec002c141123">Johnny Carson TV (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Journy.us@SD" site_id="61f0489a3f2259f988094ddb">Journy (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="JudgeNosey.us@US" site_id="5e9decb953e157000752321c">Judge Nosey (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="JustforLaughsGags.us@SD" site_id="64704954e536e0faaf10be9f">Just for Laughs Gags (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="KartoonChannel.us@SD" site_id="60fb040d4795a6000762fe8f">Kartoon Channel! (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="KevinHartsLOLNetwork.us@SD" site_id="628ea9fcffe4cec6361f5310">Kevin Hart's LOL! Network (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="KidsFlix.us@SD" site_id="5eea605574085f0040ddc797">KidsFlix (1080p) [Not 24/7]</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="KNXVTV611.us@HD" site_id="6577ab54f8a8e7d24bc86ed3">KNXV-TV 61.1 (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="LawCrime.us@SD" site_id="5eea605674085f0040ddc79d">Law &amp; Crime (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="LEGOKidsTV.us@SD" site_id="60fb01a24795a6000762fe83">LEGO Kids TV</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="LittleStarsUniverse.us@SD" site_id="51c75f7bb6f26ba1cd00002f">Little Stars Universe</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="LiveNOWfromFOX.us@SD" site_id="63d025db4e83e700086eaa96">LiveNOW from FOX (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="LogoPlutoTV.us@SD" site_id="5ce5a8954311f992edbe1da2">Logo Pluto TV</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="LoneStar.us@SD" site_id="6196c9241d310bf925e02616">Lone Star (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="LoveHipHop.us@SD" site_id="5d51ddf0369acdb278dfb05e">Love &amp; Hip Hop</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="LovePets.ca@US" site_id="63fe7d7eb6312779f56504d3">Love Pets (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="MadeInHollywood.us@SD" site_id="60db63d29ec966002c9ea6f0">Made In Hollywood</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Matlock.us@SD" site_id="6850426e53d981d1fdb0d966">Matlock (United States)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="MaverickBlackCinema.us@SD" site_id="5ef4e1b40d9ad000423c4430">Maverick Black Cinema (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="MidnightPulp.us@SD" site_id="5ef4e1b40d9ad000423c4427">Midnight Pulp (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MidsomerMurders.us@SD" site_id="5cbf6a868a1bce4a3d52a5e9">Midsomer Murders (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MissionImpossible.us@SD" site_id="62ab579258cb950007811aad">Mission Impossible (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MLB.us@SD" site_id="5e66968a70f34c0007d050be">MLB (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MoreTVDrama.us@SD" site_id="613260e4bdb71c00070d63fa">More TV Drama</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MoreTVSitcoms.us@SD" site_id="6132619f9ddaa50007e7dd86">More TV Sitcoms</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="MovieSphere.us@US" site_id="5fb84bc1b7ad2d002dcb735f">MovieSphere (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="MrBeanAnimated.uk@English" site_id="66a2e7fe94b6a49cb5054d7b">Mr Bean Animated (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MST3K.us@US" site_id="545943f1c9f133a519bbac92">MST3K (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MTVBiggestPop.us@US" site_id="5d14fd1a252d35decbc4080c">MTV Biggest Pop (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MTVPlutoTV.us@US" site_id="5ca672f515a62078d2ec0ad2">MTV Pluto TV</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MTVSpankinNew.us@US" site_id="5d14fdb8ca91eedee1633117">MTV Spankin' New (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="MyTimeMovieNetworkEast.us@SD" site_id="644875d7af92c31f4a190bc2">MyTime Movie Network East (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Naruto.us@US" site_id="5da0c85bd2c9c10009370984">Naruto (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="NashBridges.us@SD" site_id="6668b69889c051b3733f9b60">Nash Bridges (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="NBCNewsNOW.us@SD" site_id="5df97894467dfa00091c873c">NBC News NOW (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="NBCSportsNOW.us@SD" site_id="5fc70600598c41002da3dd43">NBC Sports NOW (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="NEWKPOP.us@SD" site_id="60d4edd7b2fdec002c14112d">NEW K-POP (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="NEWKMOVIES.us@SD" site_id="60d4eddab2fdec002c141131">NEW K.MOVIES (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="News12NewYork.us@SD" site_id="5fff49cfb5cd4f0007c2b0dc">News12 New York (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Newsmax2.us@SD" site_id="55b179af994403942f3061d6">Newsmax 2 (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Newsmax2.us@KPVMLD" site_id="55b179af994403942f3061d6">Newsmax 2 KPVM-LD</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="NFLChannel.us@SD" site_id="5ced7d5df64be98e07ed47b6">NFL Channel (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="NHRATV.us@SD" site_id="60aeb5cd87f9b1002ce12323">NHRA TV (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="NickJrPlutoTV.us@US" site_id="5ca6748a37b88b269472dad9">Nick Jr. Pluto TV (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="NickelodeonPlutoTV.us@SD" site_id="5ca673e0d0bd6c2689c94ce3">Nickelodeon Pluto TV (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="NinjaKidzTV.us@SD" site_id="627ec46a92d8e6a705784bd1">Ninja Kidz TV (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Nosey.us@US" site_id="5f0ff262d71dcb00449ec015">Nosey (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="OANPlus.us@SD" site_id="5e7cf6c7b156d500078c5f44">OAN Plus (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="OANPlus.us@KPVMLD" site_id="5e7cf6c7b156d500078c5f44">OAN Plus KPVM-LD</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="OnePiece.us@US" site_id="5f7790b3ed0c88000720b241">One Piece</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="OuterSphere.us@SD" site_id="641496bf238e21f260e7844a">OuterSphere (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="OutsideTV.us@SD" site_id="629e522ed1bc5f1b16c6b98d">Outside TV (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Overtime.us@SD" site_id="62a388865440744efae8e243">Overtime (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Pac12Insider.us@SD" site_id="646c0dfbfb58444e4e1e262d">Pac-12 Insider (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ParamountMovieChannel.us@SD" site_id="5cb0cae7a461406ffe3f5213">Paramount Movie Channel</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ParamountPlusPicks.us@SD" site_id="5ff8c708653d080007361b14">Paramount+ Picks</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PBRRidePass.us@SD" site_id="60d39387706fe50007fda8e8">PBR RidePass (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PBSAntiquesRoadshow.us@SD" site_id="636c2b3c55d2e700074105c4">PBS Antiques Roadshow (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PBSNature.us@SD" site_id="640a64bd73e013000893d4e0">PBS Nature (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="PBSTravel.us@SD" site_id="684c201a3496598cf4003fbc">PBS Travel (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="PeopleAreAwesome.us@SD" site_id="5f0ff263d71dcb00449ec021">People Are Awesome (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PerryMason.us@SD" site_id="6197086891ddd4000739941a">Perry Mason</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PGATour.us@SD" site_id="66d885aef0f17500084b6750">PGA Tour (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVAction.us@US" site_id="561d7d484dc7c8770484914a">Pluto TV Action (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVAdventure.us@US" site_id="69d7ebb726eeec84158e28cb">Pluto TV Adventure</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVAnime.us@US" site_id="5812b7d3249444e05d09cc49">Pluto TV Anime</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVAnimeMovies.us@SD" site_id="67ed8f7e443f0671bc2b2368">Pluto TV Anime Movies</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVBackcountry.us@SD" site_id="5cabdf1437b88b26947346b2">Pluto TV Backcountry</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVCars.us@SD" site_id="5812b3a4249444e05d09cc46">Pluto TV Cars</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVComedy.us@US" site_id="5a4d3a00ad95e4718ae8d8db">Pluto TV Comedy</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVCompetition.us@SD" site_id="603fde9026ecbf0007752c2c">Pluto TV Competition</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVCrimeDrama.us@SD" site_id="5f31fd1b4c510e00071c3103">Pluto TV Crime Drama</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVCrimeMovies.us@SD" site_id="5f4d8594eb979c0007706de7">Pluto TV Crime Movies</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVCultFilms.us@US" site_id="5c665db3e6c01b72c4977bc2">Pluto TV Cult Films (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVDrama.us@US" site_id="5b4e92e4694c027be6ecece1">Pluto TV Drama</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVFantastic.us@SD" site_id="5b64a245a202b3337f09e51d">Pluto TV Fantastic</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVGameShows.us@SD" site_id="6036e7c385749f00075dbd3b">Pluto TV Game Shows</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVHistory.us@US" site_id="5a4d35dfa5c02e717a234f86">Pluto TV History</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVHometownDrama.us@SD" site_id="69d6c7befde57cd5ba0160c3">Pluto TV Hometown Drama</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVHorror.us@US" site_id="569546031a619b8f07ce6e25">Pluto TV Horror (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVIcons.us@SD" site_id="64b585f84ea480000838e446">Pluto TV Icons</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVLives.us@US" site_id="5d8beeb39b5d5d5f8c672530">Pluto TV Lives</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVMilitary.us@SD" site_id="5bb3fea0f711fd76340eebff">Pluto TV Military</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVParanormal.us@US" site_id="5adf96e3e738977e2c31cb04">Pluto TV Paranormal (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVReaction.us@SD" site_id="617b37b361e0fd0008cfd8c5">Pluto TV Reaction</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVReality.us@US" site_id="5d8bf0b06d2d855ee15115e3">Pluto TV Reality (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVRomance.us@US" site_id="5a66795ef91fef2c7031c599">Pluto TV Romance (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVSciFi.us@US" site_id="5b4fc274694c027be6ed3eea">Pluto TV Sci-Fi (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVScience.us@US" site_id="563a970aa1a1f7fe7c9daad7">Pluto TV Science (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVSpotlight.us@SD" site_id="5ba3fb9c4b078e0f37ad34e8">Pluto TV Spotlight</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVStaffPicks.us@SD" site_id="5f4d863b98b41000076cd061">Pluto TV Staff Picks</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVTerror.us@SD" site_id="5c6dc88fcd232425a6e0f06e">Pluto TV Terror</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVTheTwilightZone.us@SD" site_id="67352ed93a61d4000881f9fa">Pluto TV The Twilight Zone</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVThrillers.us@US" site_id="5b4e69e08291147bd04a9fd7">Pluto TV Thrillers (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVTrendingNow.us@SD" site_id="673247127d5da5000817b4d6">Pluto TV Trending Now</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVTrueCrime.us@US" site_id="5812be1c249444e05d09cc50">Pluto TV True Crime (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVWesterns.us@US" site_id="5b4e94282d4ec87bdcbb87cd">Pluto TV Westerns (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PokerGo.us@US" site_id="5fc54366b04b2300072e31af">PokerGo</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Portlandia.us@SD" site_id="61d735fea7b7c7f703418512">Portlandia (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PowerNationTV.us@SD" site_id="63b48016d9dd51000828fa37">PowerNation TV (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="PursuitUP.us@SD" site_id="63628eb88e4b18ca22f897dc">PursuitUP (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="RealWild.uk@SD" site_id="63584a0cf8e2be1350f802a4">Real Wild (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="RetroCrush.us@SD" site_id="5ef4e1b40d9ad000423c442a">RetroCrush (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Revry.us@SD" site_id="674f735a2fb8a100087bf253">Revry (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="RevryLatinX.us@SD" site_id="68c87137679609f139e6cbe0">Revry LatinX (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="RiffTrax.us@US" site_id="58d947b9e420d8656ee101ab">RiffTrax (720p)</channel>
+  <channel site="plex.tv" lang="pt" xmltv_id="Runtime.us@SD" site_id="66998d1f7888888799f31d27">Runtime (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="RyanandFriends.us@SD" site_id="5fb584b7613a31000789de5a">Ryan and Friends (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ScrippsNews.us@SD" site_id="5459795fc9f133a519bc0bef">Scripps News (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="ShemarooBollywood.us@SD" site_id="62d1a58e520656fda09e609d">Shemaroo Bollywood (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="SlopesTV.us@SD" site_id="616df1be2cf008a748c8cb53">Slopes TV (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="SmithsonianChannelSelects.us@SD" site_id="5f21ea08007a49000762d349">Smithsonian Channel Selects (United States)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="SNLVault.us@SD" site_id="5fc70600598c41002da3dd34">SNL Vault (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="SonicTV.us@SD" site_id="62ba4aaff663580a7238f327">Sonic TV (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="SpikeOutdoors.us@SD" site_id="5c393cad2de254456f7ef8c2">Spike Outdoors</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="SpikePlutoTV.us@SD" site_id="5812bcc8237a6ff45d16c407">Spike Pluto TV</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="SportsGrid.us@SD" site_id="6490e78518a55242eea95999">SportsGrid (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Stadium.us@SD" site_id="5f6142d2fc6ce20041ec3c92">Stadium (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="StarTrek.us@US" site_id="5efbd39f8c4ce900075d7698">Star Trek US</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="StingrayGreatestHolidayHits.us@SD" site_id="61aa97d4113e1e5137fd5325">Stingray Greatest Holiday Hits</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="StoriesbyAMC.us@SD" site_id="5e8254118601b80007b4b7ae">Stories by AMC</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Survivor.us@SD" site_id="5f21e7b24744c60007c1f6fc">Survivor (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="SwerveSports.us@SD" site_id="683df56f5195c2a60a3f5559">Swerve Sports (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Tastemade.us@US" site_id="66311d1a707bae70101ec757">Tastemade (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TED.us@SD" site_id="62ab5aabbb869dd0df6a3487">TED (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TeenMom.us@SD" site_id="62d550d81054990007db7798">Teen Mom (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TennisChannel.us@Plus2" site_id="681109b688b9d85d0938c6ba">Tennis Channel +2 (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TGJunior.us@SD" site_id="5f123330eca6a20040b328e8">TG Junior (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheAddamsFamily.us@SD" site_id="5d81607ab737153ea3c1c80e">The Addams Family</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheAmazingRace.us@SD" site_id="5f21e8a6e2f12b000755afdb">The Amazing Race</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheAndyGriffithShow.us@SD" site_id="60f75178e7f8aa0007e9c259">The Andy Griffith Show</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheBobRossChannel.us@SD" site_id="5f36d726234ce10007784f2a">The Bob Ross Channel (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TheCarolBurnettShow.us@SD" site_id="60d4edd6b2fdec002c141125">The Carol Burnett Show (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheChallenge.us@SD" site_id="5d48685da7e9f476aa8a1888">The Challenge</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TheConners.us@SD" site_id="6668b7a5e4f56766e556a415">The Conners</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TheDesignNetwork.us@SD" site_id="5f0641d3e8ffda004033b16e">The Design Network (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheFirstTV.us@SD" site_id="5d486acc34ceb37d3c458a64">The First TV (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TheGrahamNortonShow.uk@SD" site_id="68dcbb869beaa3a402966dba">The Graham Norton Show (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheJamieOliverChannel.us@SD" site_id="64dab9df3d48f40008868091">The Jamie Oliver Channel (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheJudgeJudyChannel.us@SD" site_id="622f498d119b4c000719c0b7">The Judge Judy Channel (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheLoveBoat.us@SD" site_id="5f7794a788d29000079d2f07">The Love Boat</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheNewDetectives.us@US" site_id="5aea40b35126c2157123aa64">The New Detectives (United States)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ThePetCollective.us@US" site_id="5bb1ad55268cae539bcedb08">The Pet Collective (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ThePriceIsRight.us@HD" site_id="643f035d5a0cd50008361534">The Price Is Right</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ThePriceIsRightTheBarkerEra.us@SD" site_id="5f7791b8372da90007fd45e6">The Price Is Right: The Barker Era (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheRifleman.us@SD" site_id="5e825550e758c700077b0aef">The Rifleman</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheWalkingDeadUniverse.us@SD" site_id="62fa8176b9884200074ef5ae">The Walking Dead Universe (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ThisOldHouse.us@SD" site_id="5d51e791b7dba3b2ae990ab2">This Old House (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ThreesCompany.us@SD" site_id="5ef3977e5d773400077de284">Three's Company</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TinyHouseNation.us@SD" site_id="601a0342dcf4370007566891">Tiny House Nation (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TMZ.us@SD" site_id="63e2ca44203bafbef831a152">TMZ (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TODAYAllDay.us@SD" site_id="5d695f7db53adf96b78e7ce3">TODAY All Day (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="ToonGoggles.us@SD" site_id="5f170d60b898490041b49359">ToonGoggles (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TotallyTurtles.us@US" site_id="656ef4af4261ca00083c8f37">Totally Turtles (United States)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TribecaChannel.us@SD" site_id="60ede94f7da2ef002c55ce9b">Tribeca Channel (1080p) [Geo-blocked]</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TrueCrimeNow.us@SD" site_id="64e43cfe200cd2f67473e0d6">True Crime Now (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="TrueHistory.us@SD" site_id="614398a08f30fa61e0da7c97">True History (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TVLandDrama.us@SD" site_id="5d40bebc5e3d2750a2239d7e">TV Land Drama</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TVLandSitcoms.us@SD" site_id="61bd0b57872c650008ed2e38">TV Land Sitcoms</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Unbeaten.us@SD" site_id="67f45ef989089d917e1b1634">Unbeaten (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Unidentified.us@SD" site_id="6227e0765e753e6288a86f2f">Unidentified (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="UniversalCrime.us@East" site_id="6549341853fc9700083901ac">Universal Crime (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="UnsolvedMysteries.us@US" site_id="5b4e96a0423e067bd6df6901">Unsolved Mysteries (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="USATODAY.us@SD" site_id="60df3e18541143002f3b8607">USA TODAY (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Vevo2K.us@SD" site_id="5fd7bca3e0a4ee0007a38e8c">Vevo 2K (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Vevo70s.us@SD" site_id="5f32f26bcd8aea00071240e5">Vevo '70s (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Vevo80s.us@SD" site_id="5fd7b8bf927e090007685853">Vevo '80s (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Vevo90s.us@SD" site_id="5fd7bb1f86d94a000796e2c2">Vevo '90s (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="VevoCountry.us@SD" site_id="5da0d75e84830900098a1ea0">Vevo Country (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="VevoPop.us@SD" site_id="5d93b635b43dd1a399b39eee">Vevo Pop (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="VevoRB.us@SD" site_id="5da0d83f66c9700009b96d0e">Vevo R&amp;B (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WantedDeadorAlive.us@SD" site_id="61ddcc6023daf618ed44c29f">Wanted: Dead or Alive (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WatchitKID.us@SD" site_id="621672612c2627c068e73ad6">Watch it KID! (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WatchitScream.us@SD" site_id="621671d05abdd3d5556a1baf">Watch it Scream! (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WaypointTV.us@SD" site_id="5fd115b8b7ef8d002dcf1817">Waypoint TV (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="WeatherNation.us@SD" site_id="5d2cb7ac552e3773bc48982e">WeatherNation (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WeatherSpy.us@SD" site_id="5f0ff266d71dcb00449ec030">WeatherSpy (United States) (720p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="WildNOut.us@SD" site_id="5d48678d34ceb37d3c458a55">Wild 'N Out</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WillowSports.us@SD" site_id="66fbf9cf128ab3f65b259bcb">Willow Sports (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WipeoutXtra.us@SD" site_id="6515fb621fc969615e69d16e">Wipeout Xtra (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="Wired2FishTV.us@SD" site_id="608a2c722957c9002c6a617b">Wired2FishTV (720p) [Geo-blocked]</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="WomensSportsNetwork.us@SD" site_id="686d8dd294a028da3ac59566">Women's Sports Network (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="WorldPokerTour.us@US" site_id="5616f9c0ada51f8004c4b091">World Poker Tour (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WuTangCollection.us@SD" site_id="5eea605474085f0040ddc770">Wu Tang Collection (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XFCTV.us@SD" site_id="621670feab2095ca85353ad4">XFC TV (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XITE90sThrowback.us@SD" site_id="6889430a3b7708975e7c07e3">XITE 90's Throwback (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XITEClassicCountry.nl@SD" site_id="688d399a8ceaa3681d9425d3">XITE Classic Country (720p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XITEJustChill.nl@US" site_id="6889467267ddc0ef2cdbf4ff">XITE Just Chill (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XITENuevoLatino.us@SD" site_id="6889479e67ddc0ef2cdbf501">XITE Nuevo Latino (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XITEReggaeVibes.nl@HD" site_id="68800f0c4033a6a442ad923d">XITE Reggae Vibes (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XITERockxMetal.nl@US" site_id="68800806996f1a2fb393a6e5">XITE Rock x Metal (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="XITESiempreLatino.us@SD" site_id="68800a594033a6a442ad9237">XITE Siempre Latino (1080p)</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="YahooFinance.us@SD" site_id="5f170f01b898490041b49dd1">Yahoo! Finance (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="YoMTV.us@SD" site_id="5d14fc31252d35decbc4080b">Yo! MTV (1080p)</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="YuGiOh.us@SD" site_id="5f4ec10ed9636f00089b8c89">Yu-Gi-Oh! (1080p)</channel>
+</channels>
