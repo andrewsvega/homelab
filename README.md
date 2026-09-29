@@ -53,3 +53,8 @@ Remote access via Tailscale. SSH is key-only, and ufw allows SSH inbound only.
 - Upstreams (load-balanced): `https://security.cloudflare-dns.com/dns-query`, `tls://dns.quad9.net`, both malware-filtering
 - AdGuard browsing security web service: ON
 - Blocklists: AdGuard DNS filter, HaGeZi Threat Intelligence Feeds
+
+## Whole-house DNS (router DHCP → AdGuard)
+- AX21 DHCP hands out DNS 192.168.0.20 (primary) / .21 (secondary, same HP via Wi-Fi)
+- HP itself uses 1.1.1.1 / 9.9.9.9 (not its own AdGuard)
+- **Emergency rollback:** 192.168.0.1 → Advanced → Network → DHCP Server → clear DNS fields → Save → reconnect devices
