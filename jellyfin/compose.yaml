@@ -1,0 +1,17 @@
+services:
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    user: 1000:1000
+    group_add:
+      - "990"
+    network_mode: host
+    devices:
+      - /dev/dri/renderD128:/dev/dri/renderD128
+    volumes:
+      - ./data/config:/config
+      - ./data/cache:/cache
+      - /data/media:/data/media
+    environment:
+      - TZ=America/Los_Angeles
+    restart: unless-stopped
