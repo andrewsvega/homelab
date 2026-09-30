@@ -1,0 +1,12 @@
+services:
+  stremio:
+    image: stremio/server:latest
+    container_name: stremio
+    ports:
+      - "11470:11470"
+    environment:
+      - APP_PATH=/srv/stremio-server
+    volumes:
+      - ./data:/srv/stremio-server
+    mem_limit: 1500m
+    restart: unless-stopped
