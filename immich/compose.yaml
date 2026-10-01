@@ -28,7 +28,7 @@ services:
       - redis
       - database
     restart: always
-    mem_limit: 2g
+    mem_limit: 3g
     healthcheck:
       disable: false
 
