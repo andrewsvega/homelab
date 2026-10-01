@@ -37,11 +37,13 @@ Remote access via Tailscale. SSH is key-only, and ufw allows SSH inbound only.
 | `wifi-powersave-off.conf` | `/etc/NetworkManager/conf.d/` | Wi-Fi power save caused ~79 ms ping; now ~9 ms |
 | `lid.conf` | `/etc/systemd/logind.conf.d/` | Keep running with the lid closed |
 | `90-hp-lid-wlan.hwdb` | `/etc/udev/hwdb.d/` | Firmware sends `KEY_WLAN` (scancode `d7`) on lid open and triggers airplane mode. Remapped to `reserved`. |
+| `98-arp-per-nic.conf` | `/etc/sysctl.d/` | Each NIC answers ARP only for its own IP. Stops Wi-Fi from claiming the Ethernet address (.20). |
 
 ## Troubleshooting log
 
 - **Airplane mode on lid open:** traced with `journalctl`, `libinput debug-events`, and `evtest` to scancode `d7` on the AT keyboard. Fixed with an hwdb remap.
 - **Slow Wi-Fi (~8 Mbps):** RTL8723DE is 2.4 GHz / 802.11n only. The router was on overlapping channel 3; moving to channel 6 at 20 MHz brought it to ~33 Mbps (card ceiling). Ethernet planned.
+- **Ethernet unused, everything on Wi-Fi:** `eno1` had .20 but no routes; NetworkManager kept falling back to Wi-Fi. Cause was ARP flux: Wi-Fi answered ARP for .20, so the router sent .20 replies to the Wi-Fi card and the connectivity check on `eno1` failed (+20000 metric penalty). Fixed with `ipv4.route-metric 100` on `netplan-eno1` and `98-arp-per-nic.conf`. Internet went from ~40/23 to ~545/185 Mbps.
 
 ## Roadmap
 
