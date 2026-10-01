@@ -28,6 +28,7 @@ services:
       - redis
       - database
     restart: always
+    mem_limit: 2g
     healthcheck:
       disable: false
 
@@ -44,6 +45,7 @@ services:
     env_file:
       - .env
     restart: always
+    mem_limit: 3g
     healthcheck:
       disable: false
 
@@ -53,6 +55,7 @@ services:
     healthcheck:
       test: redis-cli ping | grep -q PONG || exit 1
     restart: always
+    mem_limit: 256m
 
   database:
     container_name: immich_postgres
@@ -69,6 +72,7 @@ services:
       - ${DB_DATA_LOCATION}:/var/lib/postgresql/data
     shm_size: 128mb
     restart: always
+    mem_limit: 1g
     healthcheck:
       disable: false
 
